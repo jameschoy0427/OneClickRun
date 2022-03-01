@@ -212,7 +212,8 @@
 "百淘影视":{"url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 "百淘影视2":{"url":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
 "乐云影视":{"url":"https://www.leyun.tv/api.php/v1.vod"},
-"猫咪TV":{"url":"http://106.12.113.90:6565/api.php/iptv/vod/"}
+"猫咪TV":{"url":"http://106.12.113.90:6565/api.php/iptv/vod/"},
+"乐看影视":{"url":"http://z001.cye1688.com/api.php/v1.vod"}
 },
 "jx":[]
 }
