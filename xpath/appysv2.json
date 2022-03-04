@@ -214,7 +214,8 @@
 "猫咪TV":{"url":"http://106.12.113.90:6565/api.php/iptv/vod/"},
 "乐看影视":{"url":"http://z001.cye1688.com/api.php/v1.vod"},
 "速播影院":{"url":"http://subolg.com/lvdou_api.php/v1.vod"},
-"源来影视":{"url":"http://ld.ylaiys.com/lvdou_api.php/v1.vod"}
+"源来影视":{"url":"http://ld.ylaiys.com/lvdou_api.php/v1.vod"},
+"CC影视":{"url":"https://ccbug.cc/lvdou_api.php/v1.vod"}
 },
 "jx":[]
 }
